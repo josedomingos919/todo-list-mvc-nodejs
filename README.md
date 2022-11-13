@@ -16,3 +16,9 @@ it shuld open at `localhost:3000`
 * Sequelize (ORM)
 * Nodemon
 * MySQL
+
+# the project
+
+<img src="/josedomingos919/todo-list-mvc-nodejs/blob/main/docs/add.png?raw=true" alt="add.png" style="
+    width: 100%;
+">
