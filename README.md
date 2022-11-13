@@ -19,6 +19,6 @@ it shuld open at `localhost:3000`
 
 # the project
 
-<img src="/josedomingos919/todo-list-mvc-nodejs/blob/main/docs/add.png?raw=true" alt="add.png" style="
+<img src="https://github.com/josedomingos919/todo-list-mvc-nodejs/blob/main/docs/add.png?raw=true" alt="add.png" style="
     width: 100%;
 ">
