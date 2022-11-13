@@ -8,7 +8,7 @@ Simple task list using mysql mvc struct and nodejs
 
 it shuld open at `localhost:3000`
 
-# staks
+# stack
 * NodeJs
 * ExpressJS
 * Handlebars
